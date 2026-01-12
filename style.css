@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(135deg, #f7d6ff, #d6e4ff);
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+li {
+  background: white;
+  padding: 12px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
